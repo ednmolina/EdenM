@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /posts/
-title: "My Posts"
+title: "My Posts Sorted by Tags"
 author_profile: true
 header:
 #  image:
