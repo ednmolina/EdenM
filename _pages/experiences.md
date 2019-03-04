@@ -8,13 +8,13 @@ header:
 ---
 
 ## Internships
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](/JPL-Internship)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship]({{ site.baseurl }}{% post_url 2016-06-20-JPL-Internship %})
 
 ## Research
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Doubly Lensed Quasars]({{ site.baseurl }}{% post_url 2017-09-22-UCLA-Quasar %})
 
 ## Part-Time
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Meteorite Lab](https://ednmolina.github.io/EdenM/UCLA-Meteorite-Lab)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Meteorite Lab]({{ site.baseurl }}{% post_url 2017-05-25-UCLA-Meteorite-Lab %})
 
 ## Volunteering
 
