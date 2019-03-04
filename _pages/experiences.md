@@ -8,7 +8,7 @@ header:
 ---
 
 ## Internships
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](/2016-06-20-JPL-Internship.html)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](/JPL-Internship)
 ## Research
 
 ## Part-Time
