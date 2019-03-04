@@ -1,7 +1,7 @@
 ---
 title: "UCLA Physics and Astronomy: Doubly Lensed Quasars"
 date: 2017-09-21
-tags: [Part Time]
+tags: [Research]
 header:
   #image: images/Experiences/Meteorite/MLab.png
 excerpt: "Doubly Lensed Quasars"
