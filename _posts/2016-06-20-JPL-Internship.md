@@ -1,6 +1,6 @@
 ---
-title: "NASA JPL Summer Internship 2016"
-date: 2017-09-21
+title: "NASA JPL Summer Internship"
+date: 2016-06-20
 tags: [Part Time]
 header:
   image: images/Experiences/JPL/JPL_front.png

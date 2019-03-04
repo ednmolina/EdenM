@@ -17,7 +17,13 @@ Furthermore, using [_lenstronomy_](https://github.com/sibirrer/lenstronomy), sof
 
 # Timeline
 ## September 2017 - May 2018
-Talk about undergrad poster
+### Extracting Photometery
+My initial task in this research project was to catalog the relative image positions and flux (brightness) of the doubly lensed quasars and galaxies. I accomplished this by modeling the distribution of light from the quasars and galaxies as Gaussian. Given this model, I used a Monte Carlo Markov Chain (MCMC) to fit this model to the data-the images. I used the package *emcee* to implement an MCMC.
+
+Looking at the posterior distributions of my parameters, we can see that I got quite good results from a Gaussian model. The MCMC convered within a few hundred steps.
+
+<img src="{{ site.baseurl }}/images/Experiences/Quasar/C0407-1931_Plot_5000_0Steps.png">
+
 
 ## June 2018 - Present
 Using Lenstronomy
