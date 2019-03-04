@@ -1,8 +1,17 @@
 ---
-title: "About"
+layout: archive
 permalink: /about/
+title: "About Me"
+author_profile: true
 header:
-  #image:
+  image: images/AboutPage/AboutCover.png
 ---
 
-This is the about page! This is where I'll put skills and relevant experience. 
+# Education
+I graduated from the University of California, Los Angeles with a B.S. in Physics in 2018.
+
+# Research
+
+# Career Goals
+
+# Hobbies

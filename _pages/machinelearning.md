@@ -5,6 +5,7 @@ title: "This page will contain all the posts"
 author_profile: true
 header:
 #  image:
+published: false
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}

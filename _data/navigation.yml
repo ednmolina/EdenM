@@ -2,9 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Page 2"
-    url: /machine-learning/
-    
+  - title: "Experiences"
+    url: /experiences/
+
+  - title: "Personal Projects"
+    url: /personalprojects/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
