@@ -1,6 +1,5 @@
 ---
 title: "NASA JPL Summer Internship 2016"
-permalink: /JPLInternship/
 date: 2017-09-21
 tags: [Part Time]
 header:
