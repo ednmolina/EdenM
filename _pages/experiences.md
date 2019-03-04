@@ -11,7 +11,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](https://ednmolina.github.io/EdenM/JPL-Internship/)
 
 ## Research
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Double Lensed Quasars](https://ednmolina.github.io/EdenM/UCLA-Quasars)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Doubly Lensed Quasars](https://ednmolina.github.io/EdenM/UCLA-Quasars)
 
 ## Part-Time
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Meteorite Lab](https://ednmolina.github.io/EdenM/UCLA-Meteorite-Lab)
