@@ -24,6 +24,7 @@ Looking at the posterior distributions of my parameters, we can see that I got q
 
 <img src="{{ site.baseurl }}/images/Experiences/Quasar/C0407-1931_Plot_5000_0Steps.png">
 
+Once I had the positions and flux for the qusars and galaxies I used this information to perform a point spread function (PSF) subtraction
 
 ## June 2018 - Present
 Using Lenstronomy
