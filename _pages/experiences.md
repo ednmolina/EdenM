@@ -8,7 +8,7 @@ header:
 ---
 
 ## Internships
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](EdenM/JPL-Internship/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](https://ednmolina.github.io/EdenM/JPL-Internship/)
 ## Research
 
 ## Part-Time
