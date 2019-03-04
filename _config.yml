@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Eden Molina"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Welcome to my site!"
+  bio              : ""
   location         : "Los Angeles"
   email            : "edenmolina.w@gmail.com"
   links:
