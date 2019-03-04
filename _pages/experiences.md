@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /experiences/
+#permalink: /experiences/
 title: "Experiences"
 author_profile: true
 header:
