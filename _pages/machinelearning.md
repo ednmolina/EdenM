@@ -1,7 +1,12 @@
 ---
 layout: archive
+<<<<<<< HEAD
 permalink: /machine-learning/
 title: "This page will contain all the posts"
+=======
+permalink: /posts/
+title: "My Posts"
+>>>>>>> e53b81718abacddcc1803c5a51e460bdda3c99bf
 author_profile: true
 header:
 #  image:
