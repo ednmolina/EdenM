@@ -1,9 +1,9 @@
 ---
 title: "UCLA Earth and Planetary Sciences: Meteorite Lab"
 date: 2017-09-21
-tags: [Research]
+tags: [Part Time]
 header:
-  #image:
+  image: images/Experiences/Meteorite/MLab.png
 excerpt: "Meteorite Lab"
 mathjax: "true"
 ---
