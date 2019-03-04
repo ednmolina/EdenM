@@ -8,11 +8,11 @@ header:
 ---
 
 ## Internships
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](https://ednmolina.github.io/EdenM/JPL-Internship/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](JPL-Internship/)
 ## Research
 
 ## Part-Time
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Meteorite Lab](EdenM/UCLA-Meteorite-Lab)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Meteorite Lab](UCLA-Meteorite-Lab)
 
 ## Volunteering
 
