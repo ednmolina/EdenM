@@ -1,14 +1,14 @@
 ---
-layout: archive
-#permalink: /experiences/
+layout: default
+permalink: /experiences/
 title: "Experiences"
 author_profile: true
 header:
-  image: images/Experiences/ExperiencesCover.png
+  image: /images/Experiences/ExperiencesCover.png
 ---
 
 ## Internships
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](https://ednmolina.github.io/EdenM/JPL-Internship/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship](/JPL-Internship)
 
 ## Research
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Doubly Lensed Quasars](https://ednmolina.github.io/EdenM/UCLA-Quasar)
