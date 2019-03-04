@@ -12,13 +12,19 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
+title                    : "Eden Molina"
+title_separator          : "-"
+name                     : "Eden Molina"
+=======
 title                    : "Home Page"
 title_separator          : "-"
 name                     : "Eden"
+>>>>>>> e53b81718abacddcc1803c5a51e460bdda3c99bf
 description              : "Welcome to my site!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -108,9 +114,15 @@ analytics:
 author:
   name             : "Eden Molina"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+<<<<<<< HEAD
+  bio              : "I graduated with a B.S. in physics from the Univeristy of California, Los Angeles in 2018."
+  location         : "Los Angeles, CA"
+  email            : "test_email@testemail.com"
+=======
+  bio              : "Welcome to my site!"
   location         : "Los Angeles"
   email            : "edenmolina.w@gmail.com"
+>>>>>>> e53b81718abacddcc1803c5a51e460bdda3c99bf
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
