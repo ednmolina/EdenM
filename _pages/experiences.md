@@ -8,7 +8,8 @@ header:
 ---
 
 ## Internships
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship]({{ site.baseurl }}{% post_url 2016-06-20-JPL-Internship %})
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship 2016]({{ site.baseurl }}{% post_url 2016-06-20-JPL-Internship %})
+
 
 ## Research
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Doubly Lensed Quasars]({{ site.baseurl }}{% post_url 2017-09-22-UCLA-Quasar %})
