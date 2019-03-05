@@ -8,6 +8,6 @@ header:
 ---
 
 ## Self Driving Car
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [NASA JPL Internship](/JPL-Internship)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [PlaceHolder](404)
 
 ## Photography

@@ -14,5 +14,4 @@ I used data 8,648 from the Sloan Digital Sky Survey (SDSS) red-sequence DR8 Matc
 <img src="{{ site.baseurl }}/images/Experiences/JPL/SixSubSamplePlotCorrectedEM.png">
 
 
-
 More details about the project can be found in [this](https://drive.google.com/file/d/1sKP9kqtFVC72Ax0UybrYBXIOzsmCFdqK/view?usp=sharing) report I wrote summarizing what I did that summer.
