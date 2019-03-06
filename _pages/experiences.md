@@ -17,6 +17,8 @@ header:
 ## Research
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Doubly Lensed Quasars]({{ site.baseurl }}{% post_url 2017-09-22-UCLA-Quasar %})
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Search for Extraterrestial Life (SETI)]({{ site.baseurl }}{% post_url 2018-04-01-UCLA-SETI %})
+
 ## Part-Time
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Meteorite Lab]({{ site.baseurl }}{% post_url 2017-05-25-UCLA-Meteorite-Lab %})
 
