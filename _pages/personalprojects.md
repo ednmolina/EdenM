@@ -8,6 +8,6 @@ header:
 ---
 
 ## Self Driving Car
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [PlaceHolder](404)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [PlaceHolder](https://www.google.com)
 
 ## Photography
