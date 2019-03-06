@@ -23,5 +23,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Meteorite Lab]({{ site.baseurl }}{% post_url 2017-05-25-UCLA-Meteorite-Lab %})
 
 ## Volunteering
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [UCLA Astronomical Soceity]({{ site.baseurl }}{% post_url 2017-05-01-UCLA-UAS %})
 
 ## Scholarship Programs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [JPL JPLUS Scholarship]({{ site.baseurl }}{% post_url 2015-06-20-JPL-JPLUS %})
