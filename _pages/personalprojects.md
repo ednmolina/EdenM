@@ -12,3 +12,6 @@ header:
 
 ## Photography
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Instagram](https://www.instagram.com/ednmolina/)
+
+## Image Processing Notebook
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Image Processing Repo](https://github.com/ednmolina/Image-Processing)
