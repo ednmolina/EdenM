@@ -23,3 +23,5 @@ multi_model.compile(loss='mae', optimizer='adam')
  So far, I have trained it on the data from one student, and I am working on having it train for multiple students to improve predictions. The prediction I made can be seen in the plot below. My model captured the overall behavior of the data, but it could be improved.
 
 <div style="text-align:center"><img src="{{ site.baseurl }}/images/Experiences/Fulcrum/LSTMPrediction.png"></div>
+
+This internship required a lot of independent research and work. During my research I have played around with various algorithms for gaining insight from data such as Support Vector Machines (SVM) and Google's Page Rank algorithm. Along the way, I learned how to clean up and structure my data in order to implement these algorithms.
