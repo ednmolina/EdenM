@@ -6,12 +6,13 @@ author_profile: true
 header:
   image: images/PersonalProjects/PersonalProjectsCover.png
 ---
+## This is how I like to spend my free time.
 
-## Self Driving Car
+### Self Driving Car
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Self Driving Car Repo](https://github.com/ednmolina/Self-Driving-Cars)
 
-## Photography
+### Photography
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Instagram](https://www.instagram.com/ednmolina/)
 
-## Image Processing Notebook
+### Image Processing Notebook
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Image Processing Repo](https://github.com/ednmolina/Image-Processing)
