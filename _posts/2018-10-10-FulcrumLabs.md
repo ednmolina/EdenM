@@ -18,8 +18,8 @@ multi_model.add(Dropout(.01))
 multi_model.add(LSTM(100, activation = 'relu', input_shape = (train_X.shape[1], train_X.shape[2]), return_sequences = False))
 multi_model.add(Dropout(.01))
 multi_model.add(Dense(1))
-multi_model.compile(loss='mae', optimizer='adam', metrics = ['accuracy'])
+multi_model.compile(loss='mae', optimizer='adam')
 ```
  So far, I have trained it on the data from one student, and I am working on having it train for multiple students to improve predictions. The prediction I made can be seen in the plot below. My model captured the overall behavior of the data, but it could be improved.
 
-<img src="{{ site.baseurl }}/images/Experiences/Quasar/C0407-1931_Plot_5000_0Steps.png">
+<img src="{{ site.baseurl }}/images/Experiences/Fulcrum/LSTMPrediction.png">
