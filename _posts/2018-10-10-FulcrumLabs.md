@@ -22,4 +22,4 @@ multi_model.compile(loss='mae', optimizer='adam')
 ```
  So far, I have trained it on the data from one student, and I am working on having it train for multiple students to improve predictions. The prediction I made can be seen in the plot below. My model captured the overall behavior of the data, but it could be improved.
 
-<img src="{{ site.baseurl }}/images/Experiences/Fulcrum/LSTMPrediction.png">
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/Experiences/Fulcrum/LSTMPrediction.png"></div>

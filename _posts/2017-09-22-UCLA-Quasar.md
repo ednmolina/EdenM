@@ -22,7 +22,7 @@ My initial task in this research project was to catalog the relative image posit
 
 Looking at the posterior distributions of my parameters, we can see that I got quite good results from a Gaussian model. The MCMC converged within a few hundred steps.
 
-<img src="{{ site.baseurl }}/images/Experiences/Quasar/C0407-1931_Plot_5000_0Steps.png">
+<div style="text-align:center"><img src="{{ site.baseurl }}/images/Experiences/Quasar/C0407-1931_Plot_5000_0Steps.png"></div> 
 
 Once I had the positions and flux for the quasars and galaxies I used this information to perform a point spread function (PSF) subtraction. This involved creating a cutout of a point source in the image, ideally this would be some light source other than one the quasar images and lens galaxy. However, other sources of light was unavailable in most of the images. I ended up using one of the quasar images as a PSF. I normalized the flux (brightness) of this PSF against the image of the other quasar, then subtracted off the cutout I made where the other quasar was. That this does, ideally, is remove the light from bright sources in an image in order to reveal fainter objects in an image.
 
