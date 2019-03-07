@@ -1,10 +1,10 @@
 ---
 title: "NASA JPL Summer Internship"
 date: 2016-06-20
-tags: [Part Time]
+tags: [Internship]
 header:
   image: images/Experiences/JPL/JPL_front.png
-excerpt: "Meteorite Lab"
+excerpt: "JPL Internship"
 mathjax: "true"
 ---
 At the Jet Propulsion Laboratory (JPL) I worked under Jason Rhodes and Hironao Miyatake to investigate assembly bias as a function of brightest cluster galaxy (BCG) ellipticity. The clustering of dark matter halos is enhanced by the underlying dark matter distribution that we do not see, this phenomena is called bias. It has been theoretically shown that bias can depend on other halo properties other than mass, this is known as assembly bias.

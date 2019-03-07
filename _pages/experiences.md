@@ -8,7 +8,7 @@ header:
 ---
 
 ## Internships
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship 2016]({{ site.baseurl }}{% post_url 2016-06-20-JPL-Internship %})
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [NASA JPL Internship]({{ site.baseurl }}{% post_url 2016-06-20-JPL-Internship %})
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Fulcrum Labs]({{ site.baseurl }}{% post_url 2018-10-10-FulcrumLabs %})
