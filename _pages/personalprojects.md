@@ -16,3 +16,6 @@ header:
 
 ### Image Processing Notebook
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Image Processing Repo](https://github.com/ednmolina/Image-Processing)
+
+### Papercraft
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Scale Models]({{ site.baseurl }}{% post_url 2008-01-01-Papercraft %})
