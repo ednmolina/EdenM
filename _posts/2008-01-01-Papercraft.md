@@ -7,7 +7,7 @@ header:
 excerpt: "Scale Models Made of Paper"
 mathjax: "true"
 ---
-As a kid, I was fascinated with the skyscrapers that loomed over the world's metropolitan cities. I began papercrafting because I wanted to have a piece of these large cities. It wasn't realistic to travel to a new city every day just to see these things. So the next logical thing in my head was to invert the problem instead of bringing myself to the skyscrapers, why not bring the skyscrapers to me?
+As a kid, I was fascinated with the skyscrapers that loomed over the world's metropolitan cities. I began papercrafting because I wanted to have a piece of these large cities. It wasn't realistic to travel to a new city every day just to see these things. So the next logical thing in my head was to invert the problem instead of bringing myself to the skyscrapers, why not bring the skyscrapers to me? And so I fell into this rabbit hole.
 
 I began to build scale models from (SkyscraperModels.us)[http://skyscrapermodels.us/Home.html] and the rabbit hold get even deeper when I found out about SkyscraperCity, an online forum for people interested about Skyscrapers.
 
