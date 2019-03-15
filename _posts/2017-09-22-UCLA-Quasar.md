@@ -31,5 +31,4 @@ Using lenstronomy, a gravitational lensing software package written by Simon Bir
 
 <img src="{{ site.baseurl }}/images/Experiences/Quasar/J0047_Galfit_Reconst.png">
 
-
-This is the bottom of the page take me back to the [TimeLine](#Timeline)
+ [Back to Top](#Overview of Research)
