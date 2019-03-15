@@ -3,7 +3,9 @@ title: "NASA JPL Summer Internship"
 date: 2016-06-20
 tags: [Internship]
 header:
-  image: images/Experiences/JPL/JPL_front.png
+  overlay_image: images/Experiences/JPL/JPL_front.png
+  overlay_filter: .05
+  caption: "Me in at JPL's main entrance"
 excerpt: "JPL Internship"
 mathjax: "true"
 ---

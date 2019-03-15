@@ -2,9 +2,13 @@
 layout: archive
 permalink: /experiences/
 title: "Experiences"
+excerpt: "This page will contain all my various internships, research, and work experience."
 author_profile: true
 header:
-  image: images/Experiences/ExperiencesCover.png
+  # overlay_image: images/Experiences/ExperiencesCover.png
+  overlay_image: images/Experiences/HDR2.png
+  caption: "This is a long exposure shot I took at Joshua Tree Summer of 2017. "
+  #overlay_filter: .05
 ---
 
 ### Internships

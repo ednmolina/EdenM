@@ -3,8 +3,10 @@ title: "UCLA Earth and Planetary Sciences: Meteorite Lab"
 date: 2017-05-25
 tags: [Part Time]
 header:
-  image: images/Experiences/Meteorite/MLab.png
-excerpt: "Meteorite Lab"
+  overlay_image: images/Experiences/Meteorite/MLab.png
+  overlay_filter: 0.05
+  caption: "One of the larger meteorites on display at the UCLA Meteorite Gallery"
+excerpt: " I was a lab assistant at one of the largest meteorite collections in the country."
 mathjax: "true"
 ---
 For the latter half of my undergraduate career at UCLA, I worked at the UCLA Metoerite Lab as a lab assistant. There I updated the data base of meteorite data that my boss, Professor John Wasson, has been collecting for over half a century.

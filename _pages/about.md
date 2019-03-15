@@ -4,7 +4,9 @@ permalink: /about/
 title: "About Me"
 author_profile: true
 header:
-  image: images/AboutPage/AboutCover.png
+  overlay_image: images/AboutPage/AboutCover.png
+  overlay_filter: .05
+  caption: "Me with Royce Hall at UCLA"
 ---
 
 ### Education
