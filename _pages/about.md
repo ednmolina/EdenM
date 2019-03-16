@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_image: images/AboutPage/AboutCover.png
   overlay_filter: .05
-  caption: "Me with Royce Hall at UCLA"
+  caption: "Me standing in front Royce Hall at UCLA"
 ---
 
 ### Education
