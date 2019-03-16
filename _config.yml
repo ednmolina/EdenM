@@ -110,11 +110,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Physicist by training. Currently a Data Science Intern at Fulcrum Labs."
   location         : "Los Angeles, CA"
-  email            : edenmolina.w@gmail.com
+  email            : "edenmolina.w@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: edenmolina.w@gmail.com
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "edenmolina.w@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
