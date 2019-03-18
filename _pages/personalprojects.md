@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_image: images/PersonalProjects/PersonalProjectsCover.png
   overlay_filter: .05
-  caption: "A coffee shop I stopped by  in San Diego Winter 2018"
+  caption: "A photo of me taking a photograph at Lake Tahoe Winter 2018"
 ---
 ## This is how I like to spend my free time.
 
