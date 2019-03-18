@@ -6,7 +6,7 @@ header:
   overlay_image: images/Experiences/JPL/JPL_front.png
   overlay_filter: .05
   caption: "Me in at JPL's main entrance"
-excerpt: "I found there was no correlation between the ellipticity of the brightest galaxy in a cluster and it's underlying dark matter distribution"
+excerpt: "I found there was no correlation between the ellipticity of the brightest galaxy in a cluster and its underlying dark matter distribution"
 mathjax: "true"
 ---
 At the Jet Propulsion Laboratory (JPL) I worked under Jason Rhodes and Hironao Miyatake to investigate assembly bias as a function of brightest cluster galaxy (BCG) ellipticity. The clustering of dark matter halos is enhanced by the underlying dark matter distribution that we do not see, this phenomena is called bias. It has been theoretically shown that bias can depend on other halo properties other than mass, this is known as assembly bias.
