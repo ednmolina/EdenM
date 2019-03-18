@@ -2,14 +2,13 @@
 layout: archive
 permalink: /personalprojects/
 title: "Personal Projects"
+excerpt: "This is how I like to spend my free time."
 author_profile: true
 header:
   overlay_image: images/PersonalProjects/PersonalProjectsCover.png
   overlay_filter: .05
   caption: "A photo of me taking a photograph at Lake Tahoe Winter 2018"
 ---
-## This is how I like to spend my free time.
-
 ### Self Driving Car
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Self Driving Car Repo](https://github.com/ednmolina/Self-Driving-Cars)
 
