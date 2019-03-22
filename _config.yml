@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Eden Molina"
   avatar           : 'images/Logo' # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Physicist by training. Currently a Data Science Intern at Fulcrum Labs and physics researcher at UCLA."
+  bio              : "Physicist by training. Currently a data science Intern at Fulcrum Labs and physics researcher at UCLA."
   location         : "Los Angeles, CA"
   email            : "edenmolina.w@gmail.com"
   links:
