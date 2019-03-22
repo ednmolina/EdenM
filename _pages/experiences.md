@@ -32,7 +32,7 @@ header:
 
 ### Part-Time
 - [UCLA Meteorite Lab]({{ site.baseurl }}{% post_url 2017-05-25-UCLA-Meteorite-Lab %})
-  * I worked at UCLA's meteorite lab, the second largest in any university, for about a year and a half as a lab assistant. I prepared meteorite samples for neutron activation analysis (NAA) by cutting them to specific sizes and ensuring there are no contaminates on the samples which would compromise the accuracy of the measurements  we collect after they have been irradiated. I also worked on plotting the spectra of each of the samples so that we can determine the constituent elements of the meteorites and properly classify them.
+  * I worked at UCLA's meteorite lab, the second largest in any university, for about a year and a half as a lab assistant. I prepared meteorite samples for neutron activation analysis (NAA) by cutting them to specific sizes and ensuring there are no contaminates on the samples which would compromise the accuracy of the measurements  we collect after they have been irradiated. I also worked on plotting the spectra of each of the samples so that we can determine the constituent elements of the meteorites and properly classify the meteorite samples.
 
 ### Volunteering
 - [UCLA Astronomical Soceity]({{ site.baseurl }}{% post_url 2017-05-01-UCLA-UAS %})
