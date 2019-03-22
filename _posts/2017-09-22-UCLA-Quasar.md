@@ -32,9 +32,3 @@ Using lenstronomy, a gravitational lensing software package written by Simon Bir
 <img src="{{ site.baseurl }}/images/Experiences/Quasar/J0047_Galfit_Reconst.png">
 
  [Back to Top](#Overview of Research)
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
