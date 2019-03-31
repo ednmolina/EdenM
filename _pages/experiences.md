@@ -43,6 +43,9 @@ header:
 - [Acoustics Lab]({{ site.baseurl }}{% post_url 2018-04-01-Physics180D %})
   * In this course I investigated acoustics and vibrations in various mediums. We investigated the normal modes of rectangular and cylindrical rooms, the dispersive nature of waves in shallow water, characterized the luminescence of gas in water driven by an acoustic field, investigated the properties of liquid helium.
 
+- [Electronics Lab]({{ site.baseurl }}{% post_url 2018-01-03-Physics117 %})
+  * This was a hands-on experimental course that have my a first hand experience in understanding the design principles of modern electronics for physics measurements. At the end of the course we made a game out of the electronics we studied throughout the quarter apply our knowledge on analog and digital electronics, and logic gates.
+
 ### Scholarship Programs
 - [JPL JPLUS Scholarship]({{ site.baseurl }}{% post_url 2015-06-20-JPL-JPLUS %})
   * I was awarded this JPL scholarship my freshman year in undergrad. I spent 6 months at JPL (June 2015 to December 2015) attending lectures, talks, and networking events pertaining to research at Cal Tech and JPL.
