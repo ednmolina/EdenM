@@ -18,5 +18,8 @@ header:
 ### Image Processing Notebook
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Image Processing Repo](https://github.com/ednmolina/Image-Processing)
 
+### AI Self Study
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [AI Repo](https://github.com/ednmolina/AI-Playground)
+
 ### Papercraft
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Scale Models]({{ site.baseurl }}{% post_url 2008-01-01-Papercraft %})
