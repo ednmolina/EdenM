@@ -31,4 +31,6 @@ Using lenstronomy, a gravitational lensing software package written by Simon Bir
 
 <img src="{{ site.baseurl }}/images/Experiences/Quasar/J0047_Galfit_Reconst.png">
 
+Some scripts I write for this project can be seen in [this repo](https://github.com/ednmolina/UCLA-Quasar-Project).
+
  [Back to Top](#Overview of Research)

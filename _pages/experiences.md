@@ -25,7 +25,7 @@ header:
 
 ### Research
 - [UCLA Doubly Lensed Quasars]({{ site.baseurl }}{% post_url 2017-09-22-UCLA-Quasar %})
-  * At UCLA I worked with doubly lensed quasar images from the Keck Observatory, the world's largest optical telescope. I am currently modeling the quasars by reconstructing the images using `lenstronomy`. I have presented my work at UCLA's undergraduate research week.
+  * At UCLA I worked with doubly lensed quasar images from the Keck Observatory, the world's largest optical telescope. I am currently modeling the quasars by reconstructing the images using `lenstronomy`. I have presented my work at UCLA's undergraduate research week. Some scripts I write for this project can be seen in [this repo](https://github.com/ednmolina/UCLA-Quasar-Project).
 
 - [UCLA Search for Extraterrestial Life (SETI)]({{ site.baseurl }}{% post_url 2018-04-01-UCLA-SETI %})
   * I, along with about 15 other students, chose G-type stars to collect radio signals using the Green Bank Telescope, the world's largest radio telescope, searching for extraterrestrial life. I worked on a team to add a plotting scheme to the data processing pipeline that will cluster and plot statistical information about candidate extraterrestrial signals.
