@@ -1,17 +1,26 @@
 ---
-layout:  single # home
+layout:  splash # home
 author_profile: true
 header:
   overlay_image: "/images/FrontPhoto.png"
-gallery:
+<!-- gallery:
   - url: /about
     image_path: images/FrontGallery/AboutGallery.png
   - url: /experiences
     image_path: images/FrontGallery/ExpGallery.png
   - url: /personalprojects
-    image_path: images/FrontGallery/PersonalGallery.png
+    image_path: images/FrontGallery/PersonalGallery.png -->
+
+feature_row:
+  - image_path: images/FrontGallery/AboutGallery.png
+    excerpt: "Learn about me"
+  - image_path: images/FrontGallery/ExpGallery.png
+    excerpt: "A list of my professional experiences."
+  - image_path: images/FrontGallery/PersonalGallery.png
+    excerpt: "How I choose to spend my free time."
 ---
 
 Welcome to my site. This site will serve to chronicle my research, internships, and personal projects.
 
-{% include gallery  %}
+<!-- {% include gallery  %} -->
+{% include feature_row %}
