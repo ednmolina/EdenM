@@ -14,7 +14,7 @@ I graduated from the University of California, Los Angeles with a B.S. in Physic
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CV](https://drive.google.com/file/d/1ngmEKW1F_8S-kvIDXnwueFP_RaVlzgJP/view?usp=sharing)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1cCo5vzmGBD98PUSq08axNMdcjPJLQxAt/view?usp=sharing)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1GbVvJ3zXH60f_m15ErDrGKgBV9yJWMYY/view?usp=sharing)
 
 ### Research
 I have done research in dark matter, gravitationally lensed quasars, extraterrestrial life, and meteorites. My current interests are in image processing and artificial intelligence. I hope to enroll in a graduate program in statistics to learn how to devise statistical models.
