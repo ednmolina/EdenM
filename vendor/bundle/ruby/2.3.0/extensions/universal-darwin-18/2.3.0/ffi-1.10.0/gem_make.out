@@ -1,0 +1,28 @@
+current directory: /Users/edenmolina/GitPage/EdenM/vendor/bundle/ruby/2.3.0/gems/ffi-1.10.0/ext/ffi_c
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190728-34975-1bb4oyg.rb extconf.rb
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi... no
+checking for shlwapi.h... no
+checking for ruby/thread.h... yes
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+creating extconf.h
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/edenmolina/GitPage/EdenM/vendor/bundle/ruby/2.3.0/extensions/universal-darwin-18/2.3.0/ffi-1.10.0/mkmf.log
+
+current directory: /Users/edenmolina/GitPage/EdenM/vendor/bundle/ruby/2.3.0/gems/ffi-1.10.0/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /Users/edenmolina/GitPage/EdenM/vendor/bundle/ruby/2.3.0/gems/ffi-1.10.0/ext/ffi_c
+make "DESTDIR="
+Configuring libffi
+configure: error: in `/Users/edenmolina/GitPage/EdenM/vendor/bundle/ruby/2.3.0/gems/ffi-1.10.0/ext/ffi_c/libffi-universal-darwin18':
+configure: error: C++ preprocessor "/lib/cpp" fails sanity check
+See `config.log' for more details
+make: *** ["/Users/edenmolina/GitPage/EdenM/vendor/bundle/ruby/2.3.0/gems/ffi-1.10.0/ext/ffi_c/libffi-universal-darwin18"/.libs/libffi_convenience.a] Error 1
+
+make failed, exit code 2

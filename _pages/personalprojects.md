@@ -13,7 +13,7 @@ header:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Self Driving Car Repo](https://github.com/ednmolina/Self-Driving-Cars)
 
 ### Photography
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Instagram](https://www.instagram.com/ednmolina/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Instagram](https://www.instagram.com/eden.mo/)
 
 ### Image Processing Notebook
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [Image Processing Repo](https://github.com/ednmolina/Image-Processing)
