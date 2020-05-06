@@ -20,12 +20,12 @@ header:
 
 
 - [Fulcrum Labs]({{ site.baseurl }}{% post_url 2018-10-10-FulcrumLabs %})
-  * At Fulcrum Labs I worked on natural language processing algorithms to determine how similar a student's short answer response is to a body of text. I am currently working on creating a prediction model that will forecast how long it will take a student to complete a course. This is important because of Fulcrum's platform is adaptive. The questions a student answers for every course is tailored for each student depending how well the answer the questions.
+* At Fulcrum Labs I worked on natural language processing algorithms to determine how similar a student's short answer response is to a body of text. I created a deep learning model to predict the amount of time a student will take to complete a course--this was important as Fulcrum is an adapting learning platform, meaning every students learning path is unique. The questions a student answers for every course is tailored for each student depending how well the answer the questions. I have also writted automated reporting scripts in R, as well as an R package to standardize the aesthetics of charts.
 
 
 ### Research
 - [UCLA Doubly Lensed Quasars]({{ site.baseurl }}{% post_url 2017-09-22-UCLA-Quasar %})
-  * At UCLA I worked with doubly lensed quasar images from the Keck Observatory, the world's largest optical telescope. I am currently modeling the quasars by reconstructing the images using `lenstronomy`. I have presented my work at UCLA's undergraduate research week. Some scripts I write for this project can be seen in [this repo](https://github.com/ednmolina/UCLA-Quasar-Project).
+* At UCLA I worked with doubly lensed quasar images from the Keck Observatory, the world's largest optical telescope. I modeled the quasars by reconstructing the images using `lenstronomy`. I have presented my work at UCLA's undergraduate research week. Some scripts I write for this project can be seen in [this repo](https://github.com/ednmolina/UCLA-Quasar-Project). The findings of the research have been submitted the Royal Astronmical Society as of March 2020.
 
 - [UCLA Search for Extraterrestial Life (SETI)]({{ site.baseurl }}{% post_url 2018-04-01-UCLA-SETI %})
   * I, along with about 15 other students, chose G-type stars to collect radio signals using the Green Bank Telescope, the world's largest radio telescope, searching for extraterrestrial life. I worked on a team to add a plotting scheme to the data processing pipeline that will cluster and plot statistical information about candidate extraterrestrial signals.
