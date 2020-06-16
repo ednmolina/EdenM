@@ -25,7 +25,7 @@ title                    : "Home Page"
 title_separator          : "-"
 name                     : "Eden"
 >>>>>>> e53b81718abacddcc1803c5a51e460bdda3c99bf
-description              : "Welcome to my site!"
+description              : "This site is now moving! https://ednmolina.github.io/eden/"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
